@@ -1,5 +1,5 @@
 # 101Extension / Go Stone Hider
-This is a 101weiqi Extension for tsumego visualization and training (extremely buggy however). It will hide all go stones except the last stone placed on the board so you are forced to get better. I thought about making it so that you will be unable to turn it off... but that probably isn't a good idea.
+This is a 101weiqi Extension for tsumego visualization and training (extremely buggy however) for chrome browsers only. It will hide all go stones except the last stone placed on the board so you are forced to get better. I thought about making it so that you will be unable to turn it off... but that probably isn't a good idea.
 
 # To Access while Google is reviewing my chrome extension
 Download -> 
