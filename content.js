@@ -102,6 +102,7 @@ function drawAllDots(canvas) {
         const key = `${point.x},${point.y}`;
         if (currentPositions.has(key)) continue;
 
+        // 90 CCW rotation, adjust x and y to px and py
         const rotatedX = originX - (point.y - originY);
         const rotatedY = originY + (point.x - originX);
 
