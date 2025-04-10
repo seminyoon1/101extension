@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Go Stone Hider",
+    "version": "1.0",
+    "description": "Hides all Go stones except the last one after a move is played. Tsumego Challenge",
+    "permissions": ["*://www.101weiqi.com/*"],
+    "host_permissions": [],
+    "content_scripts": [
+      {
+        "matches": ["*://www.101weiqi.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_end",
+        "world": "MAIN"
+      }
+    ],
+    "action": {
+      "default_title": "Go Stone Hider"
+    }
+  }
+  
