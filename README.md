@@ -22,7 +22,4 @@ Uh, submit a pr if you have a time to waste/ are slacking off on doing tsumego a
 I am legally required to show you this for privacy reasons:
 https://www.termsfeed.com/live/be59feee-66a4-4d57-9999-0d803dcdd72c
 
-# What is your Go level?
-Either you know or you don't. This isn't an Q/A or an AMA.
-
 
