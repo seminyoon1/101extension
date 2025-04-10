@@ -57,7 +57,9 @@ function drawAllDots(canvas) {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
 
   const spacing = guessSpacingFromSteps(stoneModel.step_history);
+  // Stones are not centered properly? Spacing needs to be slightly bigger
   const radius = spacing * 0.51;
+  // Testing offset
   const offsetX = 0;
   const offsetY = 0;
 
