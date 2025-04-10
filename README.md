@@ -9,8 +9,8 @@ Load unpacked
 
 # Access
 Go to a 101weiqi.com site and solve some problems on extreme difficulty!
-Press "T" to toggle on/off
-Press "R" to reset the overlay
+Press "T" to toggle on/off.
+Press "R" to reset the overlay.
 (Resetting is needed if the canvas changes/ dots are not aligned, didn't want to continously check and redraw)
 
 Move branches are saved and so you have to reset the problem first then reset the overlay to try again.
